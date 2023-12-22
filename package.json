@@ -5,7 +5,7 @@
 	"scripts": {
 		"build": "webpack",
 		"dev": "serve src",
-		"test": "serve test"
+		"test": "serve demo"
 	},
 	"description": "",
 	"author": "@devgauravjatt",
