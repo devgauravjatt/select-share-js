@@ -9,6 +9,23 @@
 ```
 `🤩 Work with all frameworks like reactjs, nextjs, sveltejs, and more HTML pages.`
 
+📌 For next js code in layout.js, ts -
+```html
+import Script from 'next/script'
+
+return (
+<html lang='en'>
+<body suppressHydrationWarning={true} className={inter.className}>
+{children}
+{/*@ts-ignore */}
+<div twitter='true' theme='dark' id='select-share-js'></div>
+<Script src='https://cdn.jsdelivr.net/gh/devgauravjatt/select-share-js@main/build/v-1.0/main.js' />
+</body>
+</html>
+	)
+
+```
+
 ### 🎨 Customize and Personalize 
 
 #### 📌 Available Customization Options:
