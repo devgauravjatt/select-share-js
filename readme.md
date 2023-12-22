@@ -1,4 +1,4 @@
-## 🌐 Enhance Your Website with Social Media Share Buttons using Select Share JS 🚀 
+### 🌐 Enhance Your Website with Social Media Share Buttons using Select Share JS 🚀 
 
 <img src="https://i.ibb.co/rwTBQCJ/Screenshot-2023-12-22-204007.png" alt="Select Share JS Logo" style="width: 60%; height: auto;">
 
