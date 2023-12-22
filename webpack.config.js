@@ -5,6 +5,6 @@ module.exports = {
 	entry: './src/index.js',
 	output: {
 		filename: 'main.js',
-		path: path.resolve(__dirname, 'Build') && path.resolve(__dirname, 'Test'),
+		path: path.resolve(__dirname, 'build/@0.1') && path.resolve(__dirname, 'demo'),
 	},
 }
