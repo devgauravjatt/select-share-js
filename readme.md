@@ -7,6 +7,7 @@
 <div twitter="true" theme="light" id="select-share-js"></div>
 <script src="https://cdn.jsdelivr.net/gh/devgauravjatt/select-share-js@main/build/v-1.0/main.js"></script>
 ```
+`🤩 Work with all frameworks like reactjs, nextjs, sveltejs, and more HTML pages.`
 
 ### 🎨 Customize and Personalize 
 
