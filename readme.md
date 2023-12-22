@@ -4,7 +4,7 @@
 
 ### 📦 Include the Select Share JS library
 ```html
-<div twitter="true" linkedin="true" theme="light" whatsapp="true" id="select-share-js"></div>
+<div twitter="true" theme="light" id="select-share-js"></div>
 <script src="https://cdn.jsdelivr.net/gh/devgauravjatt/select-share-js@main/build/v-1.0/main.js"></script>
 ```
 
@@ -16,7 +16,8 @@
 - **Theme:** `"light"` or `"dark"` (Choose the theme for buttons)
 - **WhatsApp:** `"true"` (Include WhatsApp share button)
 
-## This time abblible for share
+## This time available for share
+LinkedIn, Twitter, WhatsApp, Facebook, email and wait for more.
 
 #### 🔧 Example:
 ```html
@@ -31,7 +32,7 @@
 
 #### 🔍 Example Customization:
 ```html
-<div twitter="true" linkedin="true" theme="light" whatsapp="true" id="select-share-js"></div>
+<div twitter="true" linkedin="true" theme="dark" whatsapp="true" id="select-share-js"></div>
 ```
 
 🚀 That's it! You're ready to share! 
